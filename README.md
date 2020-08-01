@@ -8,3 +8,6 @@ This is a Sorting Visualiser built with React. The algorithms that were used: Qu
 
 Website:
 https://henryboisdequin.github.io/Sorting-Visualiser/
+
+Article:
+https://medium.com/@boisdequinh/my-first-react-project-a-sorting-visualiser-16fc668bf51f
